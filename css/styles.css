@@ -1,0 +1,54 @@
+.container{
+    margin: 10px;
+}
+
+.row form{
+    padding:5px;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+nav a{
+    display: block;
+}
+
+.hero{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.hero img{
+    width: 100%;
+}
+
+.spots .row{
+    
+    margin: 10px;
+}
+.spots figure{
+    border: 2px black solid;
+    padding: 10px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+
+.spots .row img{
+    padding: 10px;
+}
+
+/* .site-header input {   
+    border-radius: 40px;
+
+    .spots-images{
+    border: 2px solid black;
+    padding: 10px;
+    padding-bottom: 30px;
+    margin: 10px;
+    
+}
+
+.spots figcaption{
+   text-align: center;
+}
+  }*/
