@@ -1,52 +1,44 @@
-.container{
+.site-header{
     margin: 10px;
     padding: 5px;
 }
 
-.container input{
+.site-header input{
     margin: 10px 0;
     border-radius: 40px;
 }
 
-.container nav{
+.site-header nav{
     margin: 10px;
 }
 
-
-    
-
-.container nav li{
+.site-header nav li{
     list-style: none;
     padding: 0;
 }
 
-.container .row{
+.site-header .row{
     padding-left: 0;
 }
 
-.row form{
+.site-header form{
     padding:5px;
     margin: 10px;
 }
-
-
 
 .hero{
     border: 2px solid black;
     padding: 15px;
     margin: 15px;
-
 }
 
 .hero img{
     width: 100%;
 }
 
-
 .spots{
     margin: 10px;
     padding: 10px;
-    
 }
 
 .spots figure{
@@ -63,7 +55,6 @@
 figcaption{
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
 .populäraproduktor{
@@ -84,25 +75,21 @@ figcaption{
     
     text-align: right;
     padding-right: 0;
-    
 }
 
 .populäraproduktor .row{
    margin: 0;
 }
 
-/*.product img{
-   width: 100%;
-}*/
 h3{
     text-align: center;
 }
-
 
 .footer{
     margin: 10px;
     padding:0;
 }
+
 .footer .row{
     margin: 10px;
     padding: 0;
@@ -115,8 +102,6 @@ h3{
     font-size: large;
 }
 
-
-
 .footer i{
     margin: 10px;
     font-size:x-large;
@@ -125,82 +110,9 @@ h3{
 .list-footer h4{
     margin: 10px;
     font-size: large;
-
 }
 
 small{
-    
     width: 100%;
 }
 
-/*
-.list-footer{
-    padding: 10px;
-    margin: 10px;
-}
-.list-footer li{
-    list-style: none;
-}
-
-
-.footericons i{
-    margin: 10px;
-}
-
-
-.list-footer h4{
-    margin: 10px;
-  }
-
-.list-footer li{
-  padding: 5px;
-  margin: 5px;
-}
-*/
-
-
-
-
-
-
-/*.spots .row{
-    
-    margin: 10px;
-}
-.spots figure{
-    border: 2px black solid;
-    padding: 10px;
-    padding-bottom: 30px;
-    margin: 10px;
-}
-
-.spots .row img{
-    padding: 10px;
-}
-.hero{
-    border: 2px solid black;
-    padding: 10px;
-    margin: 20px;
-}
-
-.hero img{
-    width: 100%;
-}
-
-
-
- .site-header input {   
-    border-radius: 40px;
-
-    .spots-images{
-    border: 2px solid black;
-    padding: 10px;
-    padding-bottom: 30px;
-    margin: 10px;
-    
-}
-
-.spots figcaption{
-   text-align: center;
-}
-  }*/
